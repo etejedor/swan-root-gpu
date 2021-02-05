@@ -6,8 +6,4 @@ This opens the door to interactively loading GPU-powered libraries from a C++ or
 
 Click on the link below to open the demonstration notebooks (C++ and Python) in SWAN. In the SWAN web form, before starting your session, select the `99 Cuda 10.1 Python3` software stack.
 
-|open-swan|
-
-.. |open-swan| image::  http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png
-    :target: https://swan-k8s.cern.ch/user-redirect/download?projurl=https://github.com/etejedor/swan-root-gpu.git
-    :alt: Open in SWAN
+<a href="https://swan-k8s.cern.ch/user-redirect/download?projurl=https://github.com/etejedor/swan-root-gpu.git" target="_blank"><img src="http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png" alt="Open in SWAN"/></a>
